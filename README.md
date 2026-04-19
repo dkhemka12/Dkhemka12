@@ -15,6 +15,13 @@ I build real-world applications and enjoy understanding systems end-to-end — f
 
 ---
 
+## 🌐 Socials & Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://devansh-khemka-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshkhemka/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khemkadevansh.dk@gmail.com)
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -40,13 +47,6 @@ I build real-world applications and enjoy understanding systems end-to-end — f
 ![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=BBDEAD)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-## 🌐 Socials & Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://devansh-khemka-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshkhemka/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khemkadevansh.dk@gmail.com)
 
 ---
 
